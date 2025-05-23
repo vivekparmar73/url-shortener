@@ -24,5 +24,5 @@ A simple URL shortener written in **Go (Golang)** using native libraries like `n
   "url": "https://example.com/long-url"
 }
 
-![image](https://github.com/user-attachments/assets/3c1e53ec-8fbf-4ae4-a35a-d14d95d82fc4)
+![image](https://github.com/user-attachments/assets/d685b181-489a-444f-9cc8-7b37f75907fb)
 
